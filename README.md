@@ -1,23 +1,11 @@
 # nuxt-firebase-test
 
-> Nuxt.js project
+nuxt-firebase のテスト
 
-## Build Setup
+potato4d の Qiita をなぞる
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+[【v2 対応しました】Nuxt.js と Firebase を組み合わせて爆速で Web アプリケーションを構築する](https://qiita.com/potato4d/items/cfddeb8732fec63cb29c)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+こうなるはず ↓↓
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
+https://github.com/potato4d/nuxt-firebase-sns-example
