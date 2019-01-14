@@ -14,7 +14,7 @@
   "homepage": "https://github.com/kikimetal/nuxt-firebase-test#readme",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "HOST=0.0.0.0 PORT=80 nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
